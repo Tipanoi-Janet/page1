@@ -1,0 +1,385 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.content {
+  width: 100%;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 280px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: 550;
+  font-size: 15px;
+  color: #725f5f;
+}
+#flag {
+  width: 5%;
+  float: right;
+  margin-top: 2%;
+}
+.page {
+  display: flex;
+  margin-top: 4%;
+  gap: 13%;
+  background-color: #ffd600;
+  height: 30%;
+  padding:3%;
+}
+#piece {
+  width: 2%;
+  margin-left: 3%;
+  height: 1%;
+}
+.icons {
+}
+#search {
+  border:1px solid white;
+  width: 12%;
+  border-radius: 10px;
+}
+#button {
+  width: 12%;
+  border:1px solid white;
+  border-radius: 10px;
+}
+#rings {
+  
+  width: 40%;
+  margin-top: 4%;
+  margin-left: 3%;
+}
+#new {
+  width: 6%;
+  border-radius: 10px;
+  margin-right: 20%;
+}
+
+.select {
+  border:1px solid white;
+  border: solid;
+  border-color: aliceblue;
+  margin-left: 75%;
+  margin-top: -40.5%;
+  margin-right: 10%;
+  width: 20%;
+  text-align: center;
+  width: 300px;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+.button2 {
+  margin-top: 3%;
+  /* margin-top: 80%; */
+}
+#butn1{
+  border-radius: 7px;
+  padding: 10px;
+  border:1px solid white;
+  /* margin-right: 50%;  */
+  
+}
+#butn2{
+  padding: 10px;
+  border-radius: 7px;
+  margin-left: 50%;
+  border:1px solid white;
+  
+}
+#lect {
+  /* float: right;
+  margin-top: 5%;
+  margin-right: 20%;
+  width: 70%;
+  border-radius: 10px; */
+}
+#series {
+  margin-bottom: 20%;
+}
+.nums{
+  display: flex;
+  
+
+}
+#num{
+  margin-left: 2%;
+  border:1px solid white;
+  border-radius: 7px;
+  padding: 10px;
+}
+#man{
+  width: 200px;
+  margin-top: 50px;
+
+}
+.stand{
+  margin-left: 10%;
+}
+#copy{
+  width: 200px;
+  margin-top: 50px
+}
+.you{
+  display: flex;
+  margin-top: 10%;
+}
+#jim{
+  width: 200px;
+ /* margin-left: 20%; */
+ margin-top: 30%;
+}
+
+#me{
+  width: 200px;
+  height: 200px;
+  margin-top: 20%;
+
+}
+#lol{
+  width: 200px;
+  
+}
+.all{
+  margin-left: 10%;
+}
+.mm{
+  margin-left: 5%;
+}
+.ll{
+  margin-left: 10%;
+}
+#style{
+  height: 150px;
+}
+#gee{
+   height :150px;
+}
+#few{
+  height:160px;
+} 
+.room{
+  display: flex;
+}
+.nn{
+  margin-left: 10%;
+}
+.main{
+  margin-left: 10%;
+}
+.gal{
+  margin-left:10%;
+  margin-right: 8.5%;
+}
+#kick{
+  width: 180px;
+}
+.hey{
+  margin-right: 100px;
+}
+#hiz{
+  margin-left: 17%;
+  width: 15%;
+  margin-bottom 20%;
+  
+}
+#boom{
+  margin-left: 60px;
+  width:15% ;
+  margin: top 0%;
+  
+}
+#map{
+  margin-left: 4%;
+  width: 200px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+
+}
+.het{
+  display: flex ;
+  justify-content: space-between;
+}
+#oas{
+  margin-left: 15%;
+  width: 200px;
+  
+}
+  #on{
+    margin: left 15%;
+    width: 205px;
+    margin-bottom: 5%;
+  }
+#potter{
+  margin-left: 0%;
+  width: 205px;
+}
+#put{
+  margin-left: 15%;
+  width: 180px;
+}
+ #desk{
+  margin-left: 3.5%;
+  width: 180px;
+  margin-bottom: 30px;
+ } 
+#bit{
+  margin-left: 3%;
+  width: 200px;
+  margin-bottom: 30px;
+}
+#dee{
+  margin-left: 84%;
+  width: 180px;
+  margin-top: -30%;
+}
+  
+
+
+#super{
+  margin-left: 15%;
+  width: 180px;
+}
+#jay{
+  margin-left: 4%;
+  width: 150px;
+}
+#year{
+  margin-left: 3.5%;
+  width: 175px;
+}
+#two{
+  margin-left: 3.5%;
+  width: 150px;
+}
+.hint{
+  margin-left: 16%;
+  margin-top: -10%;
+}
+.pop{
+  width: 215px;
+  height: 30vh;
+  margin-left: 5%;
+  margin-top: -9%;
+
+}
+.rat{
+  width: 200px;
+  height: 85vh;
+  margin-top: -25%;
+  margin-left: 4%;
+}
+.dot{
+  margin-left: 36%;
+  width: 200px;
+  margin-top: -2.5%;
+}
+.images{
+  display: flex;
+  margin-top: 20%;
+  margin-left: 10%;
+  
+}
+.key{
+  margin-left: 6%;
+  width: 200px;
+  height: 35vh;
+  margin-top: -12%;
+}
+.tie{
+margin-left: 58%;
+margin-top: -4%;
+}
+.footer1{
+  margin-left: -135%;
+  margin-top: 40%;
+  background-color: #ffd600;
+  width: 233%;
+  height: 12vh;
+  padding-top: 4%;
+}
+input{
+  margin-left: 3%;
+  margin-top: -30%;
+  background-color: beige;
+  padding: 1.5%;
+  width: 30%;
+  border-radius: 10px;
+  border: beige solid;
+}
+.but{
+  margin-left: -1.5%;
+  margin-top: -30%;
+  background-color: #E70062;
+  padding: 1.8%;
+  width: 12%;
+  border-radius: 10%;
+  border: #E70062;
+}
+.footer2{
+  display :flex; 
+  margin-left: -135%;
+  margin-top: 10%;
+  gap: 3%;
+  background-color: navy;
+  width: 270%;
+  height: 60vh;
+  
+}
+
+@media(max-width:767px){
+  .select{
+    margin-top:100px;
+    margin-left:100px;
+    width:500px
+    
+  }
+  #rings{
+    width:150%;
+    margin-left:30px
+  }
+  #new{
+    width:100px;
+    height:30px;
+    margin-left:250px;
+    background-color:yellow;
+  }
+  .page{
+    width:650px;
+    height:100px;
+  }
+  #piece{
+    width:100px;
+    height:80px
+  }
+  .footer2{
+    display:grid;
+    height:900px;
+    width:650px
+  }
+  .footer1{
+    width:650px;
+  }
+  .you{
+    display:grid;
+  }
+  .room{
+    display:grid
+  }
+  .images{
+    display:grid
+  }
+  .key{
+    margin-top:50px
+  }
+ 
+}
+
+
+
